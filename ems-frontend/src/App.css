@@ -1,0 +1,44 @@
+/* App.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4; /* Set a light background color */
+  }
+  
+  .container {
+    background-color: #ffffff; /* Set a white background for the content */
+    border-radius: 8px; /* Add rounded corners to the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    margin-top: 20px;
+    padding: 20px;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a slight box shadow to cards */
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Set a green color for success buttons */
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838; /* Darken the green on hover */
+  }
+  
+  /* Add more styles as needed for other elements */
+  
+  
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
